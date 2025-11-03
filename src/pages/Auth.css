@@ -1,0 +1,14 @@
+.btn-auth {
+
+  border: none;
+  padding: 0.6rem 2rem;
+  border-radius: 30px;
+  background: transparent;
+ 
+}
+
+.btn-auth:hover {
+  background-color: rgb(64, 178, 182);
+
+  cursor: pointer;
+}
